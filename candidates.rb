@@ -14,7 +14,7 @@ require 'active_support/all'
     years_of_experience: 1,
     github_points: 145,
     languages: ['JavaScript', 'Ruby', 'Go', 'Erlang'],
-    date_applied: 15.days.ago.to_date,
+    date_applied: 16.days.ago.to_date,
     age: 19
   },
   {
